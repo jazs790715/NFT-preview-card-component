@@ -9,6 +9,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
+  - [What are you most proud of, and what would you do differently next time?](#what-are-you-most-proud-of-and-what-would-you-do-differently-next-time)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
@@ -38,6 +39,16 @@ Users should be able to:
 - Live Site URL: [https://jazs790715.github.io/NFT-preview-card-component/](https://jazs790715.github.io/NFT-preview-card-component/)
 
 ## My process
+
+### What are you most proud of, and what would you do differently next time?
+
+I'm most proud of successfully implementing the hover overlay effect on the NFT image. Getting the absolute and relative positioning to work correctly, along with the smooth opacity transition, was challenging but rewarding. The cyan overlay with the eye icon appears seamlessly when hovering, exactly as intended in the design.
+
+What I would do differently next time:
+- **Better semantic HTML structure**: I would use more descriptive class names and possibly implement BEM methodology for better code organization
+- **Accessibility first**: Add proper `alt` attributes, ARIA labels, and ensure the interactive elements are keyboard accessible from the start
+- **CSS organization**: Separate the CSS into different sections (variables, base styles, components, utilities) for better maintainability
+- **Testing earlier**: Test the responsive design on actual devices earlier in the development process, not just in browser dev tools
 
 ### Built with
 
