@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/jazs790715)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository](https://github.com/jazs790715/NFT-preview-card-component)
+- Live Site URL: [https://jazs790715.github.io/NFT-preview-card-component/](https://jazs790715.github.io/NFT-preview-card-component/)
 
 ## My process
 
