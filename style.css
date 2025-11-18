@@ -182,3 +182,20 @@ article{
     flex-direction: column;
   }
 }
+
+.attribution {
+    font-family: "Outfit", sans-serif;
+    font-size: 11px; text-align: center;
+    color: var(--Blue-500);
+ }
+
+.attribution a { 
+    color: var(--White); 
+    text-decoration : none;
+    transition: ease-in-out ;
+}
+.attribution a:hover{
+    cursor: pointer ;
+    color: var(--Cyan-400);
+    
+}
